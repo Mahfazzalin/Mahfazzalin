@@ -35,9 +35,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfazzalin&layout=compact&theme=tokyonight)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahfazzalin&show_icons=true&theme=tokyonight&count_private=true)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Mahfazzalin&theme=tokyonight)  
-![Metrics](https://metrics.lecoq.io/Mahfazzalin)  
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mahfazzalin&theme=tokyo-night)
+![Metrics](https://metrics.lecoq.io/Mahfazzalin?template=classic&config.timezone=Asia%2FDhaka)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahfazzalin&theme=tokyo-night)
 
 ---
 
-![Profile Views](https://gpvc.arturio.dev/Mahfazzalin)
+
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mahfazzalin&color=blue)
+
