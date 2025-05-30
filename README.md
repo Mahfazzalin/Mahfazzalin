@@ -1,28 +1,43 @@
 ![IBanner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiudVALEGPkVb7midv4S90ZznwiIIryIxaMybTOdrJzz8jDna8P-1ogqEbhUhMFTNFliItJnIvcBgiZ4P_zSJzaDnrVn2Jq6Vk667aicBGegv1o9ho7GRyhXj64JFgAiCjCK5ieXf3oeR2hQMK87dHciLlTPSwMSiX-MabE5f6fYVwyqfpHGkRXAtkOKLiU/s2000/mahfazzalin's%20github%20banner.png)
 
-### Hi there 👋, I'm Mahfazzalin Shawon Reza
-#### I am Web dovelopper
+<h2 align="center">Hi there 👋, I'm <span style="color:#ff5722">Mahfazzalin Shawon Reza</span></h2>
+<h4 align="center">🚀 Full-Stack Developer | 🧠 Math Enthusiast | 💻 Hacker & Maker</h4>
 
-Learn from old and do new thing.
+---
 
-Skills:  REACT / JS / HTML / CSS/ PHP / DJANGO/ PYTHON / SQL
+🧠 _"Learn from the past. Build the future."_  
 
-- 🌱 I’m currently learning Mechine learning 
-- 👯 I’m looking to collaborate on github 
+### 💼 Skills  
+`React` · `JavaScript` · `HTML` · `CSS` · `PHP` · `Django` · `Python` · `SQL`
 
+### 📚 Currently Learning
+- 🤖 Machine Learning
+- 📡 IoT & Embedded Systems with ESP32
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahfazzalin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mahfazzalinsawon.raza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mahfazzalin//)  
+### 🤝 Let's Collaborate
+- Open to GitHub projects, especially in Web & IoT
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mahfazzalin)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfazzalin)](https://github.com/anuraghazra/github-readme-stats)
+### 🌐 Connect with Me  
+[![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahfazzalin)
+[![Facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mahfazzalinsawon.raza)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mahfazzalin)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahfazzalin&show_icons=true&count_private=true)  
+---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mahfazzalin)  
+### 🏆 GitHub Achievements  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Mahfazzalin&theme=onedark&title=MultiLanguage,Commit,Stars,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/Mahfazzalin)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mahfazzalin)  
+### 📊 Stats & Activity  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfazzalin&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahfazzalin&show_icons=true&theme=tokyonight&count_private=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mahfazzalin&theme=tokyonight)  
+![Metrics](https://metrics.lecoq.io/Mahfazzalin)  
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mahfazzalin&theme=tokyo-night)
 
-![Profile views](https://gpvc.arturio.dev/Mahfazzalin)  
+---
+
+![Profile Views](https://gpvc.arturio.dev/Mahfazzalin)
