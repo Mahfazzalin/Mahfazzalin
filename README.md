@@ -1,156 +1,181 @@
-````markdown
-![GitHub Banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiudVALEGPkVb7midv4S90ZznwiIIryIxaMybTOdrJzz8jDna8P-1ogqEbhUhMFTNFliItJnIvcBgiZ4P_zSJzaDnrVn2Jq6Vk667aicBGegv1o9ho7GRyhXj64JFgAiCjCK5ieXf3oeR2hQMK87dHciLlTPSwMSiX-MabE5f6fYwyqfpHGkRXAtkOKLiU/s2000/mahfazzalin's%20github%20banner.png)
+![IBanner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiudVALEGPkVb7midv4S90ZznwiIIryIxaMybTOdrJzz8jDna8P-1ogqEbhUhMFTNFliItJnIvcBgiZ4P_zSJzaDnrVn2Jq6Vk667aicBGegv1o9ho7GRyhXj64JFgAiCjCK5ieXf3oeR2hQMK87dHciLlTPSwMSiX-MabE5f6fYVwyqfpHGkRXAtkOKLiU/s2000/mahfazzalin's%20github%20banner.png)
 
-# 👋 Hi, I'm Mahfazzalin Shawon Reza
+<h1 align="center">Hi 👋, I'm Mahfazzalin Shawon Reza</h1>
 
-### 🚀 Full-Stack Developer · 🤖 Robotics Engineer · 🔐 Ethical Hacker
+<h3 align="center">
+🚀 Full-Stack Web Developer &nbsp;•&nbsp;
+🤖 Robotics Engineer &nbsp;•&nbsp;
+🔐 Ethical Hacker
+</h3>
 
-B.Sc. in Mathematics | Python • Django • JavaScript • IoT • Cybersecurity
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahfazzalin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-I build web applications, automation systems, IoT projects, and practical software solutions — with a strong interest in **AI, robotics, cybersecurity, and mathematical computing**.
+<p align="center">
+  <a href="https://github.com/Mahfazzalin">
+    <img src="https://img.shields.io/github/followers/Mahfazzalin?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/Mahfazzalin?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building **full-stack web applications & IoT systems**
-- 🤖 Working with **ESP32, Arduino & smart automation**
-- 🧠 Exploring **Artificial Intelligence & Machine Learning**
-- 🔐 Interested in **ethical hacking & cybersecurity**
-- 🌐 Building scalable applications with **Django, Python & JavaScript**
-- 📐 Applying **mathematics to programming, algorithms & problem solving**
-- 🐧 Linux enthusiast
-- ⚡ Always learning. Always building.
+🎓 **B.Sc. in Mathematics**
+
+💻 Full-Stack Web Developer passionate about building practical and scalable applications.
+
+🤖 Robotics Engineer interested in **Arduino, ESP32, IoT and automation**.
+
+🔐 Ethical Hacker focused on **cybersecurity, Linux and security research**.
+
+🧠 Exploring **Artificial Intelligence, Machine Learning and AI model integration**.
+
+📐 Combining **mathematics, programming and engineering** to solve real-world problems.
+
+⚡ **Build → Break → Learn → Improve**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css" alt="Programming Languages"/>
 </p>
 
 ### 🚀 Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=django,react,bootstrap,tailwind" alt="Frameworks"/>
 </p>
 
-### 🔧 Tools & Platforms
+### 🗄️ Database & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,arduino" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" alt="Databases"/>
 </p>
 
-### 🤖 Hardware & IoT
+### ⚙️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
-  <img src="https://img.shields.io/badge/ESP32-333333?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge&logo=internetofthings&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Tools"/>
+</p>
+
+### 🤖 Robotics & IoT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT"/>
 </p>
 
 ---
 
-## 🔥 What I'm Working On
+## 🔥 Currently Working On
 
-```text
-🌐 Full-Stack Web Applications
-🤖 ESP32 & Arduino IoT Projects
-🏠 Smart Home Automation
-🧠 AI / Machine Learning
-🔐 Cybersecurity & Ethical Hacking
-⚙️ Automation & Developer Tools
-````
-
----
-
-## 🚀 Featured Interests
-
-| Area               | Focus                                           |
-| ------------------ | ----------------------------------------------- |
-| 🌐 Web Development | Django, Python, JavaScript, REST APIs           |
-| 🤖 Robotics        | Arduino, ESP32, Sensors & Automation            |
-| 🧠 AI / ML         | Machine Learning, AI APIs & Model Integration   |
-| 🔐 Cybersecurity   | Ethical Hacking, Security & Linux               |
-| 📐 Mathematics     | Algorithms, Logic & Computational Mathematics   |
-| ☁️ Cloud           | APIs, Docker, Cloud Deployment & Infrastructure |
+- 🌐 Full-Stack Web Applications
+- 🤖 ESP32 & Arduino based IoT systems
+- 🏠 Smart Home Automation
+- 🧠 Artificial Intelligence & Machine Learning
+- 🔐 Cybersecurity & Ethical Hacking
+- ⚙️ Automation & Developer Tools
+- ☁️ APIs, Cloud Services & Modern Backend Systems
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Areas of Interest
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahfazzalin&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfazzalin&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahfazzalin&theme=tokyonight&hide_border=true" />
+| 🌐 Web Development | 🤖 Robotics | 🔐 Cybersecurity |
+|:---:|:---:|:---:|
+| Django | Arduino | Ethical Hacking |
+| Python | ESP32 | Linux |
+| REST APIs | IoT | Security Research |
+
+| 🧠 Artificial Intelligence | 📐 Mathematics | ⚙️ Automation |
+|:---:|:---:|:---:|
+| Machine Learning | Algorithms | Scripting |
+| AI Integration | Logic | Developer Tools |
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahfazzalin&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahfazzalin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfazzalin&layout=compact&hide_border=true&theme=tokyonight" height="180" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mahfazzalin&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahfazzalin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahfazzalin&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahfazzalin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/Mahfazzalin">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://facebook.com/mahfazzalinsawon.reza">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
 <a href="https://instagram.com/mahfazzalin">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </p>
 
 ---
 
-## 💡 Developer Philosophy
+## 💡 My Developer Philosophy
 
-> **Build it. Break it. Learn from it. Improve it.**
+<p align="center">
 
-I believe the best way to learn technology is to **build real things, solve real problems, and continuously experiment.**
+> <b>"Don't just learn technology — build with it."</b>
+
+</p>
+
+I believe the best way to master technology is through **continuous experimentation, real-world projects and problem solving**.
 
 ---
 
-## 👀 Profile Visitors
+## ⚡ Fun Fact
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahfazzalin&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-```
-
+```text
+while (alive) {
+    learn();
+    build();
+    break_things();
+    debug();
+    improve();
+}
